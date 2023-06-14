@@ -11,4 +11,6 @@ git clone https://github.com/quincy-S
 
 # Usage
 
+```bash
 python app.py
+```
